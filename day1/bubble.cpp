@@ -1,19 +1,6 @@
-// 1. Problem: Counting Sort Implementation
+// Implement the Bubble Sort algorithm to sort an array of integers.
 
-// Problem Statement:
-// Implement the counting sort algorithm to sort an array of integers.
 
-// Input:
-// An array of integers.
-
-// Output:
-// The sorted array.
-
-// Example:
-// Input:
-// [5, 3, 8, 2, 7, 1, 6, 4]
-// Output:
-// [1, 2, 3, 4, 5, 6, 7, 8]
 #include<iostream>
 using namespace std;
 
